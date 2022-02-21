@@ -2,4 +2,4 @@
 - 👀 I’m interested in Front End Web Development.
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Web Development projects.
-- 📫 How to reach me through my email or linkedin profile which is linked in bio.
+- 📫 You can reach me through my email or linkedin profile which is linked in bio.
