@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ramil Jones.
-- 👀 I’m interested in Front Email Development.
+- 👀 I’m interested in Email Development.
 - 🌱 I’m currently learning Ghost Tables.
 - 💞️ I’m looking to collaborate on Email projects.
 - 📫 You can reach me through my email or linkedin profile which is linked in bio.
